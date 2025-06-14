@@ -1,6 +1,20 @@
 # ADK A2A Notion-ElevenLabs Integration
 
-A multi-agent system using Google's Agent Development Kit (ADK) that integrates Notion for information retrieval and ElevenLabs for text-to-speech conversion. The system demonstrates a fully decoupled Agent-to-Agent (A2A) architecture.
+This project demonstrates a multi-agent system using Google's Agent Development Kit (ADK) that integrates Notion for information retrieval and ElevenLabs for text-to-speech conversion.
+
+The system demonstrates a fully decoupled Agent-to-Agent (A2A) architecture.
+
+Please use the accompanying the [YouTube Crash Course video](https://www.youtube.com/watch?v=s6-Ofu-uu2k).
+
+> **Note**: This repository contains the starting code to follow along with the tutorial series. For the complete implementation, please check out the `lesson-complete` branch.
+
+## ☕ Support the Project
+
+If you find this tutorial series and codebase helpful in your AI agent development journey, consider buying me a coffee! Your support helps me create more educational content on AI and agent development.
+
+<a href="https://buymeacoffee.com/aioriented" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
 
 ## Architecture
 
